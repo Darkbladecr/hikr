@@ -1,0 +1,25 @@
+{
+  "name": "hikr-es6",
+  "version": "1.0.0",
+  "description": "Pronounced \"hiker\" (/ˈhaɪkə(r)/), hikr is a basic hike-tracking app.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src/ -d dist/",
+    "dev": "babel src/ -w -d dist/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkbladecr/hikr.git"
+  },
+  "author": "Stefan Mitrasinovic",
+  "license": "The MIT License (MIT)",
+  "bugs": {
+    "url": "https://github.com/Darkbladecr/hikr/issues"
+  },
+  "homepage": "https://github.com/Darkbladecr/hikr#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}

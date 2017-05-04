@@ -1,10 +1,12 @@
-# hikr
+# hikr ES6
 Pronounced "hiker" (/ˈhaɪkə(r)/), hikr is a basic hike-tracking app.
 
 ![Screen cap](https://github.com/fusetools/hikr/blob/master/hikr.gif)
 
 ## basic info
 hikr is an example app case to accompany Fuse's [end-to-end Fuse app tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
+
+This is an updated tutorial series that shows how to utilize the latest ES6 features in your code.
 
 _Note: there have been some force-pushes on this repo, so if you've cloned it before the series went live, it's probably a good idea to delete it and clone again._
 
