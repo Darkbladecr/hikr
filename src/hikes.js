@@ -1,5 +1,4 @@
-var hikes = [
-	{
+const hikes = [{
 		id: 0,
 		name: "Tricky Trails",
 		location: "Lakebed, Utah",
@@ -41,4 +40,4 @@ var hikes = [
 	}
 ];
 
-module.exports = hikes;
+export default hikes;

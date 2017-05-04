@@ -6,6 +6,6 @@
   ],
   "Includes": [
     "*",
-    "hikes.js:Bundle"
+    "dist/hikes.js:Bundle"
   ]
 }

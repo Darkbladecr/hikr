@@ -1,5 +1,5 @@
 <Page ux:Class="HomePage">
-	<JavaScript File="HomePage.js" />
+	<JavaScript File="../../dist/Pages/HomePage.js" />
 
 	<ScrollView>
 		<StackPanel>
