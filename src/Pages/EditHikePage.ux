@@ -1,5 +1,5 @@
 <Page ux:Class="EditHikePage">
-	<JavaScript File="../../dist/Pages/EditHikePage.js" />
+	<JavaScript File="EditHikePage.js" />
 
 	<ScrollView>
 		<StackPanel>
