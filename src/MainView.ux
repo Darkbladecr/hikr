@@ -1,6 +1,6 @@
 <App>
 	<ClientPanel>
-		<JavaScript File="dist/MainView.js" />
+		<JavaScript File="MainView.js" />
 
 		<ScrollView>
 			<StackPanel>

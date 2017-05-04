@@ -6,5 +6,9 @@
   ],
   "Includes": [
     "*"
+  ],
+  "Excludes": [
+    "node_modules/",
+    "src/"
   ]
 }
