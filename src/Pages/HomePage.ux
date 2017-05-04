@@ -1,7 +1,7 @@
 <Page ux:Class="HomePage">
 	<Router ux:Dependency="router" />
 
-	<JavaScript File="HomePage.js" />
+	<JavaScript File="../../dist/Pages/HomePage.js" />
 
 	<ScrollView>
 		<StackPanel>
