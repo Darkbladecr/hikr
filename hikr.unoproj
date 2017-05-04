@@ -6,6 +6,6 @@
   ],
   "Includes": [
     "*",
-    "Modules/*.js:Bundle"
+    "dist/Modules/*.js:Bundle"
   ]
 }

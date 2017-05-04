@@ -1,7 +1,7 @@
 <Page ux:Class="SplashPage">
 	<Router ux:Dependency="router" />
 
-	<JavaScript File="SplashPage.js" />
+	<JavaScript File="../../dist/Pages/SplashPage.js" />
 
 	<DockPanel ClipToBounds="true">
 		<Video Layer="Background" File="../Assets/nature.mp4" IsLooping="true" AutoPlay="true" StretchMode="UniformToFill" Opacity="0.5">
