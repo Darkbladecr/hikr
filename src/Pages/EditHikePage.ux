@@ -1,7 +1,7 @@
 <hikr.Page ux:Class="EditHikePage">
 	<Router ux:Dependency="router" />
 
-	<JavaScript File="EditHikePage.js" />
+	<JavaScript File="../../dist/Pages/EditHikePage.js" />
 
 	<DockPanel>
 		<Grid ColumnCount="2" Dock="Bottom">

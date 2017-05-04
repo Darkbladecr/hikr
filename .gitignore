@@ -1,2 +1,4 @@
 build/
 .uno/
+node_modules/
+dist/
