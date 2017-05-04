@@ -1,7 +1,7 @@
 <Page ux:Class="EditHikePage">
 	<Router ux:Dependency="router" />
 
-	<JavaScript File="../../dist/Pages/EditHikePage.js" />
+	<JavaScript File="EditHikePage.js" />
 
 	<ScrollView>
 		<StackPanel>
